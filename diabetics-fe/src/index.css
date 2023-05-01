@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: 'Poppins' !important;
+  font-style: normal !important;
+  font-weight: 300;
+  overflow-x: hidden !important;
+}
+
+.bg{
+  /* //background-image: url('../src/assets/background.png'); */
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}

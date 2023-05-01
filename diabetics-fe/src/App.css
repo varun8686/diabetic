@@ -1,0 +1,84 @@
+.button{
+    color: white;
+    background-color: #7865DB;
+    height: 45px;
+    text-transform: capitalize !important;
+}
+.ft{
+    font-size: 11px !important;
+}
+.borderbtn{
+    border-bottom: 2px solid white;
+}
+.menuborderbtn{
+    border-bottom: 2px solid #3689AA !important;
+}
+.MuiLinearProgress-root{
+    height: 6px !important;
+    border-radius: 5px !important;
+}
+.loader-overlay {
+    background-color: rgba(0, 0, 0, 0.2);
+    z-index: 9999; 
+  }
+.MuiButtonBase-root{
+    background-color: #3689AA !important;
+}
+.error-message{
+    font-size: 12px;
+    color: red;
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+    padding: 15px 0px
+}
+.pointer{
+    cursor: pointer;
+}
+.MuiCardContent-root{
+    padding: 10px !important;
+}
+.MuiMenuItem-gutters{
+    background-color: white !important;
+}
+.css-1bbxzor-MuiButtonBase-root-MuiTab-root.Mui-selected{
+    color: white !important;
+}
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: none !important;
+}
+thead{
+    height: 56px;
+    background: #efeded73;
+    width: 100%;
+    border: 1px solid #E8E8E8;
+    text-align: left;
+}
+th, td{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.1px;
+    color: #25282B;
+    padding: 0px 24px;
+    text-align: center;
+    border: 1px solid #E8E8E8;
+}
+td{
+    color: #52575C !important;
+    font-weight: 400 !important;
+    padding: 0px 24px;
+}
+tr{
+    height: 56px;
+    border-bottom: 1px solid #E8E8E8;
+}
+.MuiMenuItem-root{
+    font-size: 14px !important;
+}
+.MuiSelect-select{
+    font-size: 14px !important;
+}
